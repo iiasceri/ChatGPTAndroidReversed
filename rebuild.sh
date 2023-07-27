@@ -1,4 +1,4 @@
-apktool b ../jwlibrary
-java -jar uber-apk-signer.jar --apks ./dist/jwlibrary.apk
-adb install ./dist/jwlibrary-aligned-debugSigned.apk
-adb shell am start -n org.jw.jwlibrary.mobile/.MainActivity
+apktool b ../ChatGPT
+java -jar uber-apk-signer.jar --apks ./dist/ChatGPT.apk
+adb install ./dist/ChatGPT-aligned-debugSigned.apk
+adb shell am start -n com.openai.chatgpt/.MainActivity

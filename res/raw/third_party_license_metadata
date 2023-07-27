@@ -1,0 +1,254 @@
+0:64 integrity
+65:47 Compose Material3 Components
+113:72 jwtdecode
+186:46 Android Lifecycle ViewModel
+65:47 kotlinx-serialization-core
+186:46 Compose Richtext Commonmark
+65:47 ktor-io
+186:46 Android Support ExifInterface
+65:47 ktor-io
+186:46 okio
+186:46 AndroidX Autofill
+65:47 ktor-client-logging
+186:46 Kotlin Stdlib
+186:46 Accompanist Navigation Animation
+65:47 ktor-websockets
+65:47 Statsig Android SDK
+65:47 kotlinx-coroutines-core
+186:46 Android Support Library Annotations
+186:46 Compose Material Icons Extended
+186:46 javax.inject
+186:46 Android Support AnimatedVectorDrawable
+186:46 Android Arch-Runtime
+186:46 Android App Startup Runtime
+65:47 kotlinx-serialization-json
+186:46 Android Room-Common
+186:46 Android ConstraintLayout
+186:46 Compose Navigation
+186:46 Saved State
+186:46 Android Navigation Runtime Kotlin Extensions
+186:46 Compose Saveable
+186:46 okio
+186:46 SQLDelight Android Driver
+186:46 SQLDelight Coroutines Extensions
+186:46 android-browser-helper
+186:46 Fragment Kotlin Extensions
+186:46 Compose Material Components
+186:46 Lifecycle ViewModel Compose
+65:47 KotlinPoet
+186:46 SQLDelight Primitive Column Adapters
+233:43 mixpanel-android
+65:47 ktor-events
+186:46 Compose Geometry
+186:46 Compose Graphics
+277:47 play-services-base
+325:10694 AndroidX lifecycle common library
+325:10694 AndroidX lifecycle livedatacore library
+325:10694 AndroidX lifecycle runtime library
+11020:1096 Animal Sniffer
+12117:1892 Checker Framework Annotations
+14010:11357 Error Prone
+25368:11358 Guava JDK5
+36727:11362 Guava JDK7
+48090:13064 J2ObjC
+61155:1602 JSR 305
+25368:11358 JSpecify
+62758:11307 JsInterop Annotations
+74066:102807 Kotlin
+25368:11358 SafeParcelable library
+176874:10695 apksig
+186:46 Compose UI Text
+186:46 Jetpack Compose Libraries BOM
+186:46 SQLDelight Dialect API
+186:46 Android Support RecyclerView v7
+186:46 AndroidX Futures
+186:46 Core
+186:46 Android ConstraintLayout Solver
+186:46 Android Lifecycle Service
+186:46 Compose UI Text
+186:46 Android AppCompat Library
+186:46 SavedState Kotlin Extensions
+186:46 Android Room-Runtime
+186:46 Kronos
+186:46 napier
+186:46 Android Lifecycle LiveData Core
+186:46 Android Support Library loader
+186:46 Android Support Library Drawer Layout
+187570:68 Auth0.Android
+65:47 ktor-client-content-negotiation
+186:46 androidx.customview:poolingcontainer
+186:46 Android Support Library Cursor Adapter
+65:47 ktor-serialization-kotlinx
+186:46 Compose Geometry
+65:47 Dagger
+65:47 Compose Runtime
+186:46 Activity
+65:47 Papa
+186:46 Compose Richtext Commonmark
+186:46 Kronos
+65:47 kotlinx-serialization-bom
+65:47 ktor-client-auth
+186:46 Compose Richtext UI Material3
+186:46 Kotlin Stdlib Common
+233:43 dd-sdk-android-session-replay
+186:46 Accompanist Placeholder Material3
+65:47 kotlinx-coroutines-slf4j
+65:47 coil-compose
+186:46 Compose Richtext UI Material3
+65:47 Gson
+186:46 Android Lifecycle LiveData
+186:46 Android Support Library Custom View
+186:46 Jetpack WindowManager Library
+186:46 Compose Animation
+186:46 Android Support VectorDrawable
+186:46 Android Lifecycle-Common for Java 8 Language
+186:46 SQLDelight Multiplatform Runtime (Experimental)
+277:47 play-services-tasks
+187639:10691 AndroidX annotation experimental library
+325:10694 AndroidX architecture core common library
+325:10694 AndroidX architecture core runtime library
+325:10694 AndroidX tracing library
+186:46 SQLDelight Core
+233:43 dd-sdk-android-compose
+233:43 dd-sdk-android
+186:46 VersionedParcelable
+65:47 ktor-websocket-serialization
+186:46 Compose Graphics
+186:46 SQLDelight Multiplatform Runtime (Experimental)
+186:46 Android Support DynamicAnimation
+186:46 Core Kotlin Extensions
+198331:50 autolink-java
+186:46 Emoji2
+186:46 Android DataStore
+186:46 SQLDelight Async Driver Extensions
+65:47 ktor-client-core
+186:46 Compose Animation Core
+186:46 Accompanist Permissions
+65:47 kotlinx-serialization-core
+186:46 AndroidX Widget ViewPager2
+186:46 Collections Kotlin Extensions
+186:46 Compose Material Ripple
+186:46 Android Support Library core utils
+65:47 ktor-http
+65:47 coil-base
+65:47 ktor-serialization
+186:46 Experimental annotation
+186:46 Android Lifecycle-Common
+186:46 kotlinx-datetime
+186:46 Android Resource Inspection - Annotations
+186:46 Activity Compose
+65:47 kotlinx-coroutines-bom
+186:46 Android Support Library collections
+186:46 SQLDelight Async Driver Extensions
+186:46 SplashScreen
+65:47 ktor-client-content-negotiation
+186:46 Kotlin Stdlib Jdk8
+186:46 Kotlin Stdlib Jdk7
+186:46 Android Navigation Fragment
+65:47 kotlinx-serialization-json
+186:46 SQL-PSI Core
+186:46 Compose Unit
+186:46 Android Preferences DataStore
+65:47 ktor-utils
+186:46 Android Transition Support Library
+186:46 Compose Richtext UI
+186:46 Compose Saveable
+186:46 Compose UI
+186:46 okhttp-logging-interceptor
+65:47 Compose Foundation
+65:47 Compose Util
+65:47 kotlinx-coroutines-android
+186:46 Compose Animation Core
+186:46 Compose Material Ripple
+186:46 Android Support Library Local Broadcast Manager
+65:47 ktor-websocket-serialization
+186:46 Android Support Library Sliding Pane Layout
+186:46 Compose UI Preview Tooling
+65:47 ktor-client-core
+277:47 play-services-oss-licenses
+14010:11357 Kotlin coroutines
+25368:11358 gsfclient
+198382:11356 kotlinx_atomicfu
+186:46 Compose Util
+65:47 ktor-client-auth
+186:46 Compose Material Components
+65:47 ktor-serialization-kotlinx-json
+65:47 ktor-events
+186:46 Android Support Library Document File
+186:46 Android Support Library Annotations
+186:46 Compose Animation
+186:46 Android Support Library Interpolators
+186:46 Compose Richtext UI
+186:46 Compose Foundation
+186:46 Android Support Library fragment
+186:46 Android Tracing
+186:46 androidx.profileinstaller:profileinstaller
+186:46 Compose UI
+65:47 kotlinx-coroutines-core
+186:46 Android Tracing Runtime Kotlin Extensions
+186:46 SQLDelight Primitive Column Adapters
+186:46 Compose UI Preview Tooling
+186:46 kotlinx-datetime
+186:46 Android DataStore Core
+186:46 Compose Runtime
+65:47 coil
+186:46 Android Navigation Common Kotlin Extensions
+186:46 Accompanist Drawable Painter library
+186:46 Compose Runtime
+186:46 Compose Foundation
+186:46 Android Arch-Common
+186:46 Android Lifecycle Kotlin Extensions
+186:46 Emoji2 Views Helper
+65:47 ktor-websockets
+186:46 Android Support CardView v7
+65:47 kotlinx-coroutines-jdk8
+186:46 JHeaps
+186:46 Android Lifecycle Runtime
+186:46 error-prone annotations
+65:47 ktor-client-okhttp
+186:46 okhttp
+186:46 Android Support Library Coordinator Layout
+65:47 ktor-utils
+65:47 kotlinx-coroutines-play-services
+65:47 JetBrains Java Annotations
+65:47 ktor-http
+65:47 Anvil Annotations
+186:46 Android Lifecycle ViewModel with SavedState
+186:46 Activity Kotlin Extensions
+209739:40 JGraphT - Core
+209780:41 JGraphT - Core
+186:46 Compose Material Icons Core
+186:46 Compose Unit
+186:46 napier
+186:46 Material Components for Android
+186:46 Compose Material Icons Core
+65:47 Papa SafeTrace
+186:46 Compose Material Icons Extended
+186:46 Compose Layouts
+186:46 LiveData Core Kotlin Extensions
+186:46 Android Navigation Runtime
+186:46 SQLDelight Coroutines Extensions
+186:46 Android WorkManager Runtime
+186:46 Android Support Custom Tabs
+186:46 Android Support Library View Pager
+186:46 Compose Material3 Components
+186:46 Compose Util
+186:46 Android Support Library Print
+186:46 Compose Layouts
+65:47 coil-compose-base
+186:46 Android Preferences DataStore Core
+65:47 ktor-client-okhttp
+186:46 Android Navigation Common
+186:46 Android Resources Library
+65:47 ktor-serialization
+65:47 ktor-serialization-kotlinx-json
+186:46 Android Lifecycle ViewModel Kotlin Extensions
+186:46 Android DB
+186:46 Kotlin Reflect
+186:46 Android Support SQLite - Framework Implementation
+186:46 Android Lifecycle Process
+277:47 play-services-basement
+65:47 ktor-client-logging
+186:46 Curtains
+65:47 ktor-serialization-kotlinx
+186:46 Accompanist Placeholder

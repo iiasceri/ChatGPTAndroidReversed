@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="action_bar">#ff292831</color>
+    <color name="primary">#ffb9c3ff</color>
+    <color name="secondary">#ffbfc2ff</color>
+    <color name="tertiary">#ffbcc2ff</color>
+</resources>
